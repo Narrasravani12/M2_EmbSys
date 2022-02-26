@@ -1,6 +1,11 @@
+# Requirements:
 Microcontroller 8051
+16 * 2 LCD Display
+# Sensors:
 4 * 4 Matrix keypad
-32 * 2 LCD display
+
 Relay drivers
+# Actuators
 Load (Bulb,LED)
-Power Supply
+
+Buzzer
