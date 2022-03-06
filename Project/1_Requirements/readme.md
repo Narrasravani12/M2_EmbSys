@@ -51,7 +51,14 @@ High security requires improvement in the software as well as an extra work load
 # Requirements :
 
 ## High level requirements :
-
+|ID|Description|Status|
+|--|-----------|------|
+|HLR01|Microcontoller-8051|It shall control all the actions|
+|HLR02|Key pad (4* 4)|It shall acess the keys|
+|HLR03|LCD Display 16* 2|It shall display all the operations|
+|HLR04|Relay driver(ULN2003)|It shall drives to give output|
+|HLR05|Buzzer|It shall ring for certain parameters as mentioned in Mc|
+|HLR06|Relays|It shall gives the output|
 
 
 ## Low level requirements :
