@@ -62,3 +62,10 @@ High security requires improvement in the software as well as an extra work load
 
 
 ## Low level requirements :
+|ID|Description|Status|
+|--|-----------|------|
+|LLR01|Boundary protection|Firewalls,VPN|
+|LLR02|Attack detection|Incdent response|
+|LLR03|Security policy|Time limits|
+|LLR04|access control|It shall have biometrics,passwords and keys,time limits,user permissions|
+|LLR05|Authentication|The system shall support multiple logins|
