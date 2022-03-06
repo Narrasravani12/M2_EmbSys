@@ -15,7 +15,7 @@ LCD stands for Liquid Crystal Display which is an electronic display module. The
 The relay is an electromagnetic switch,used to control the electrical de-vices.Copper core magnetic ux plays the main role here.The relay's switch connections are usually labelled COM,NC,and NO.COM=Common,always connect to this,it is the moving part of the switch.NC=Normally Closed,COM is connected to this when the relay coil.
 # ULN2003A IC
 The ULN IC is the most commonly used Motor driver IC. This IC is used to drive very high current loads with the help of digital logic circuits like operational
-ampliers,Timers,Gates,aurdino etc... This is a 16 pin IC, in which there are 7 Darlington pairs, each can drive the loads in the range of 50V and 500 mA. These Darlington pairs have 7 input pins and 7 output pins, and other are a common pin and a ground pin.
+amplifers,Timers,Gates,aurdino etc... This is a 16 pin IC, in which there are 7 Darlington pairs, each can drive the loads in the range of 50V and 500 mA. These Darlington pairs have 7 input pins and 7 output pins, and other are a common pin and a ground pin.
 # Buzzer
-A buzzer is a Audio signal Device which lets the audio out of it mechanically. These are basically used in alarm devices, timers etc... A buzzer is a very tiny device but also an eective one to integrate audio features to any of the projects. The features of the buzzer are voltage rate - 6V DC operating Voltage - 4-8 V DC Current Rating - upto 30mA Audio Type - a continuous beep Frequency resonated - upto 2300Hz.
+A buzzer is a Audio signal Device which lets the audio out of it mechanically. These are basically used in alarm devices, timers etc... A buzzer is a very tiny device but also an effective one to integrate audio features to any of the projects. The features of the buzzer are voltage rate - 6V DC operating Voltage - 4-8 V DC Current Rating - upto 30mA Audio Type - a continuous beep Frequency resonated - upto 2300Hz.
  
