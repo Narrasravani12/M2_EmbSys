@@ -48,3 +48,10 @@ High security requires improvement in the software as well as an extra work load
 * WHEN : When any accidents occur.
 * WHY : To save the lives near electric poles.
 * HOW : By alerting a lineman with the help of password.
+# Requirements :
+
+## High level requirements :
+
+
+
+## Low level requirements :
