@@ -17,9 +17,3 @@ jobs:
       run: |
         sudo apt-get -y install valgrind
         sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
